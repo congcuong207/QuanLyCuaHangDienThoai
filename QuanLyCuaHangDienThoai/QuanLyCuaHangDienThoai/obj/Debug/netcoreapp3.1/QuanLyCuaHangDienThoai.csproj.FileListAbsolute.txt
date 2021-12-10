@@ -1,0 +1,28 @@
+C:\Users\Cong Cuong\source\repos\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\bin\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.exe
+C:\Users\Cong Cuong\source\repos\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\bin\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.deps.json
+C:\Users\Cong Cuong\source\repos\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\bin\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.runtimeconfig.json
+C:\Users\Cong Cuong\source\repos\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\bin\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.runtimeconfig.dev.json
+C:\Users\Cong Cuong\source\repos\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\bin\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.dll
+C:\Users\Cong Cuong\source\repos\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\bin\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.pdb
+C:\Users\Cong Cuong\source\repos\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.csproj.AssemblyReference.cache
+C:\Users\Cong Cuong\source\repos\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cong Cuong\source\repos\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.AssemblyInfoInputs.cache
+C:\Users\Cong Cuong\source\repos\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.AssemblyInfo.cs
+C:\Users\Cong Cuong\source\repos\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\Cong Cuong\source\repos\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.dll
+C:\Users\Cong Cuong\source\repos\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.pdb
+C:\Users\Cong Cuong\source\repos\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.genruntimeconfig.cache
+D:\SourceLapTrinh\MVC\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\bin\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.exe
+D:\SourceLapTrinh\MVC\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\bin\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.deps.json
+D:\SourceLapTrinh\MVC\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\bin\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.runtimeconfig.json
+D:\SourceLapTrinh\MVC\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\bin\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.runtimeconfig.dev.json
+D:\SourceLapTrinh\MVC\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\bin\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.dll
+D:\SourceLapTrinh\MVC\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\bin\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.pdb
+D:\SourceLapTrinh\MVC\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.csproj.AssemblyReference.cache
+D:\SourceLapTrinh\MVC\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceLapTrinh\MVC\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.AssemblyInfoInputs.cache
+D:\SourceLapTrinh\MVC\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.AssemblyInfo.cs
+D:\SourceLapTrinh\MVC\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.csproj.CoreCompileInputs.cache
+D:\SourceLapTrinh\MVC\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.dll
+D:\SourceLapTrinh\MVC\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.pdb
+D:\SourceLapTrinh\MVC\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\netcoreapp3.1\QuanLyCuaHangDienThoai.genruntimeconfig.cache
